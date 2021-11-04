@@ -1,4 +1,3 @@
-import Head from 'next/head';
 import requireStatic from '../utils/require-static';
 
 export default function Home() {
